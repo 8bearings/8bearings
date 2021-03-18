@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elliott Watson</h1>
 <h3 align="center">A passionate fullstack engineer from MD</h3>
 
-- 👨‍💻 All of my projects are available at [elliottwatson.co/dev](elliottwatson.co/dev)
+- 👨‍💻 All of my projects are available at [https://github.com/8bearings](https://github.com/8bearings)
 
 - 📫 How to reach me **elliottwatson0@gmail.com**
 
