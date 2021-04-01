@@ -1,11 +1,11 @@
 ![ALEXIS LOGO](https://user-images.githubusercontent.com/61177210/113246259-a8c9c300-9286-11eb-8729-3e6668123c86.PNG)
 
-<h1 align="center">Hi 👋, I'm Elliott Watson</h1>
+<h1 align="center">Hello! I'm Elliott Watson</h1>
 <h3 align="center">A passionate fullstack engineer from MD</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/8bearings](https://github.com/8bearings)
+-  💻  All of my projects are available at [https://github.com/8bearings](https://github.com/8bearings)
 
-- 📫 How to reach me **elliottwatson0@gmail.com**
+- 📫  How to reach me **elliottwatson0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
