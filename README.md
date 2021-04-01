@@ -3,7 +3,7 @@
 <h1 align="center">Hello! I'm Elliott Watson</h1>
 <h3 align="center">A passionate fullstack engineer from MD</h3>
 
-- 📫  How to reach me **elliottwatson0@gmail.com**
+<h4 align="center"> - 📫  How to reach me **elliottwatson0@gmail.com**</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
