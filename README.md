@@ -1,6 +1,6 @@
 ![ALEXIS LOGO](https://user-images.githubusercontent.com/61177210/113246259-a8c9c300-9286-11eb-8729-3e6668123c86.PNG)
 
-<h1 align="center">Hello! I'm Elliott Watson</h1>
+<h1 align="center">Hello! I'm Elliott Watson </h1>
 <h3 align="center">A passionate fullstack engineer from MD</h3>
 
 <h4 align="center"> -  How to reach me: elliottwatson0@gmail.com </h4>
