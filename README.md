@@ -10,7 +10,7 @@
   </div>  
   
 <h1 align="center">Hello! I'm Elliott Watson </h1>
-<h3 align="center">A passionate fullstack engineer from MD</h3>
+<h3 align="center"> Fullstack engineer </h3>
 
 <h4 align="center"> -  How to reach me: elliottwatson0@gmail.com </h4>
 
