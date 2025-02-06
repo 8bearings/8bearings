@@ -8,9 +8,8 @@
 
 
 
-<p> Results-driven software engineer specializing in backend development and cloud technologies. Experienced in creating scalable solutions using TypeScript, JavaScript, Node.js, and AWS, focusing on performance optimization and robust monitoring.</p>
-<p> Some of my key achievements include implementing systems serving millions of users and significantly improving application efficiency. Adept at large-scale data integration and translating complex requirements into real solutions.</p>
-<p> I am a AWS Certified Cloud Practitioner committed to continuous learning and innovation. Thrives in collaborative, Agile environments and is passionate about creating impactful, user-centric solutions.</p>
+<p> Results-driven AWS Certified software engineer comfortable using technologies like TypeScript, React, and Node.js. I am passionate about creating scalable, user-centric solutions in collaborative environments.</p>
+
 
 
 
