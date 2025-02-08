@@ -8,7 +8,7 @@
 
 
 
-<p> Results-driven AWS Certified software engineer comfortable using technologies like TypeScript, React, and Node.js. I am passionate about creating scalable, user-centric solutions in collaborative environments.</p>
+<p> Software engineer with 3+ years of experience in full-stack development and cloud infrastructure. Well-versed with TypeScript, React, Node.js, and SQL, with proven success optimizing ETL systems.</p>
 
 
 
