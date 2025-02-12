@@ -8,7 +8,7 @@
 
 
 
-<p> Software engineer with 3+ years of experience in full-stack development and cloud infrastructure. Well-versed with TypeScript, React, Node.js, and SQL, with proven success optimizing ETL systems.</p>
+<p> Software engineer with 3+ years of experience in full-stack development and cloud infrastructure. Well-versed with TypeScript, React, Node.js, and SQL, with proven success optimizing complex systems.</p>
 
 
 
